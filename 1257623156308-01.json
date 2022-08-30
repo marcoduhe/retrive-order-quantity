@@ -1,0 +1,930 @@
+{
+    "orderId": "1257623156308-01",
+    "sequence": "537069",
+    "marketplaceOrderId": "",
+    "marketplaceServicesEndpoint": "http://oms.vtexinternal.com.br/api/oms?an=multitop",
+    "sellerOrderId": "00-1257623156308-01",
+    "origin": "Marketplace",
+    "affiliateId": "",
+    "salesChannel": "1",
+    "merchantName": null,
+    "status": "handling",
+    "statusDescription": "Preparando Entrega",
+    "value": 26614,
+    "creationDate": "2022-08-29T01:52:35.9308484+00:00",
+    "lastChange": "2022-08-29T01:56:53.2163870+00:00",
+    "orderGroup": "1257623156308",
+    "totals": [
+        {
+            "id": "Items",
+            "name": "Total de los items",
+            "value": 34030
+        },
+        {
+            "id": "Discounts",
+            "name": "Total de descuentos",
+            "value": -7568
+        },
+        {
+            "id": "Shipping",
+            "name": "Costo total del envío",
+            "value": 152
+        },
+        {
+            "id": "Tax",
+            "name": "Costo total del cambio",
+            "value": 0
+        }
+    ],
+    "items": [
+        {
+            "uniqueId": "6DA5480312E24515A68EA5D3D99A9F2E",
+            "id": "11268",
+            "productId": "11268",
+            "ean": null,
+            "lockId": "00-1257623156308-01",
+            "itemAttachment": {
+                "content": {},
+                "name": null
+            },
+            "attachments": [],
+            "quantity": 8,
+            "seller": "1",
+            "name": "PISO MARACAIBO TABLON PLOMO OSCURO 52",
+            "refId": "ME000036995",
+            "price": 2670,
+            "listPrice": 2670,
+            "manualPrice": null,
+            "priceTags": [
+                {
+                    "name": "DISCOUNT@MARKETPLACE",
+                    "value": -1712,
+                    "isPercentual": false,
+                    "identifier": "427a3bad-6c37-4ff6-96f3-5eb8e238f994",
+                    "rawValue": -17.12,
+                    "rate": null,
+                    "jurisCode": null,
+                    "jurisType": null,
+                    "jurisName": null
+                },
+                {
+                    "name": "DISCOUNT@MARKETPLACE",
+                    "value": -3123,
+                    "isPercentual": false,
+                    "identifier": "551c7833-a5da-460d-acb9-3e6768654899",
+                    "rawValue": -31.22664,
+                    "rate": null,
+                    "jurisCode": null,
+                    "jurisType": null,
+                    "jurisName": null
+                },
+                {
+                    "name": "discount@shipping-e14b77e4-e294-45cf-81ca-1412f24e116a#f2b7a08d-0287-40d1-bf0b-a6ba015db132",
+                    "value": -2432,
+                    "isPercentual": false,
+                    "identifier": "e14b77e4-e294-45cf-81ca-1412f24e116a",
+                    "rawValue": -24.32,
+                    "rate": null,
+                    "jurisCode": null,
+                    "jurisType": null,
+                    "jurisName": null
+                }
+            ],
+            "imageUrl": "https://multitop.vteximg.com.br/arquivos/ids/158303-100-100/ME000036995_1.jpg?v=637283878545100000",
+            "detailUrl": "/piso-maracaibo-tablon-plomo-oscuro-52-11268/p",
+            "components": [],
+            "bundleItems": [],
+            "params": [],
+            "offerings": [],
+            "sellerSku": "11268",
+            "priceValidUntil": null,
+            "commission": 0,
+            "tax": 0,
+            "preSaleDate": "2021-09-01T00:00:00.0000000+00:00",
+            "additionalInfo": {
+                "brandName": "MULTITOP",
+                "brandId": "2000000",
+                "categoriesIds": "/62/72/80/",
+                "categories": [
+                    {
+                        "id": 80,
+                        "name": "DECORATIVO"
+                    },
+                    {
+                        "id": 72,
+                        "name": "PISOS VINILICOS"
+                    },
+                    {
+                        "id": 62,
+                        "name": "PISOS, ALFOMBRAS Y GRASS ARTIFICIAL"
+                    }
+                ],
+                "productClusterId": "142,151,158,208,274,498,505,607,637,644,675,680,684",
+                "commercialConditionId": "1",
+                "dimension": {
+                    "cubicweight": 141.9733,
+                    "height": 88.0000,
+                    "length": 88.0000,
+                    "weight": 1844.0000,
+                    "width": 88.0000
+                },
+                "offeringInfo": null,
+                "offeringType": null,
+                "offeringTypeId": null
+            },
+            "measurementUnit": "m",
+            "unitMultiplier": 1.0000,
+            "sellingPrice": 2066,
+            "isGift": false,
+            "shippingPrice": null,
+            "rewardValue": 0,
+            "freightCommission": 0,
+            "priceDefinition": {
+                "sellingPrices": [
+                    {
+                        "value": 2066,
+                        "quantity": 5
+                    },
+                    {
+                        "value": 2065,
+                        "quantity": 3
+                    }
+                ],
+                "calculatedSellingPrice": 2066,
+                "total": 16525
+            },
+            "taxCode": null,
+            "parentItemIndex": null,
+            "parentAssemblyBinding": null,
+            "callCenterOperator": null,
+            "serialNumbers": null,
+            "assemblies": [],
+            "costPrice": 2670
+        },
+        {
+            "uniqueId": "960FB2771C784F6EA765574CFD9097EC",
+            "id": "11268",
+            "productId": "11268",
+            "ean": null,
+            "lockId": "00-1257623156308-01",
+            "itemAttachment": {
+                "content": {},
+                "name": null
+            },
+            "attachments": [],
+            "quantity": 4,
+            "seller": "1",
+            "name": "PISO MARACAIBO TABLON PLOMO OSCURO 52",
+            "refId": "ME000036995",
+            "price": 2670,
+            "listPrice": 2670,
+            "manualPrice": null,
+            "priceTags": [
+                {
+                    "name": "DISCOUNT@MARKETPLACE",
+                    "value": -856,
+                    "isPercentual": false,
+                    "identifier": "427a3bad-6c37-4ff6-96f3-5eb8e238f994",
+                    "rawValue": -8.56,
+                    "rate": null,
+                    "jurisCode": null,
+                    "jurisType": null,
+                    "jurisName": null
+                },
+                {
+                    "name": "DISCOUNT@MARKETPLACE",
+                    "value": -1562,
+                    "isPercentual": false,
+                    "identifier": "551c7833-a5da-460d-acb9-3e6768654899",
+                    "rawValue": -15.61336,
+                    "rate": null,
+                    "jurisCode": null,
+                    "jurisType": null,
+                    "jurisName": null
+                },
+                {
+                    "name": "discount@shipping-e14b77e4-e294-45cf-81ca-1412f24e116a#f2b7a08d-0287-40d1-bf0b-a6ba015db132",
+                    "value": -1216,
+                    "isPercentual": false,
+                    "identifier": "e14b77e4-e294-45cf-81ca-1412f24e116a",
+                    "rawValue": -12.160,
+                    "rate": null,
+                    "jurisCode": null,
+                    "jurisType": null,
+                    "jurisName": null
+                }
+            ],
+            "imageUrl": "https://multitop.vteximg.com.br/arquivos/ids/158303-100-100/ME000036995_1.jpg?v=637283878545100000",
+            "detailUrl": "/piso-maracaibo-tablon-plomo-oscuro-52-11268/p",
+            "components": [],
+            "bundleItems": [],
+            "params": [],
+            "offerings": [],
+            "sellerSku": "11268",
+            "priceValidUntil": null,
+            "commission": 0,
+            "tax": 0,
+            "preSaleDate": "2021-09-01T00:00:00.0000000+00:00",
+            "additionalInfo": {
+                "brandName": "MULTITOP",
+                "brandId": "2000000",
+                "categoriesIds": "/62/72/80/",
+                "categories": [
+                    {
+                        "id": 80,
+                        "name": "DECORATIVO"
+                    },
+                    {
+                        "id": 72,
+                        "name": "PISOS VINILICOS"
+                    },
+                    {
+                        "id": 62,
+                        "name": "PISOS, ALFOMBRAS Y GRASS ARTIFICIAL"
+                    }
+                ],
+                "productClusterId": "142,151,158,208,274,498,505,607,637,644,675,680,684",
+                "commercialConditionId": "1",
+                "dimension": {
+                    "cubicweight": 141.9733,
+                    "height": 88.0000,
+                    "length": 88.0000,
+                    "weight": 1844.0000,
+                    "width": 88.0000
+                },
+                "offeringInfo": null,
+                "offeringType": null,
+                "offeringTypeId": null
+            },
+            "measurementUnit": "m",
+            "unitMultiplier": 1.0000,
+            "sellingPrice": 2066,
+            "isGift": false,
+            "shippingPrice": null,
+            "rewardValue": 0,
+            "freightCommission": 0,
+            "priceDefinition": {
+                "sellingPrices": [
+                    {
+                        "value": 2066,
+                        "quantity": 3
+                    },
+                    {
+                        "value": 2065,
+                        "quantity": 1
+                    }
+                ],
+                "calculatedSellingPrice": 2066,
+                "total": 8263
+            },
+            "taxCode": null,
+            "parentItemIndex": null,
+            "parentAssemblyBinding": null,
+            "callCenterOperator": null,
+            "serialNumbers": null,
+            "assemblies": [],
+            "costPrice": 2670
+        },
+        {
+            "uniqueId": "CFD2953A5B694EDEB1201008759FA917",
+            "id": "16575",
+            "productId": "1256",
+            "ean": null,
+            "lockId": "00-1257623156308-01",
+            "itemAttachment": {
+                "content": {},
+                "name": null
+            },
+            "attachments": [],
+            "quantity": 1,
+            "seller": "1",
+            "name": "PEGSA PEGAMENTO MULTIUSOS CALZAPEG (GALON 1/4 LTS)",
+            "refId": "ME000046739",
+            "price": 1990,
+            "listPrice": 1990,
+            "manualPrice": null,
+            "priceTags": [
+                {
+                    "name": "DISCOUNT@MARKETPLACE",
+                    "value": -316,
+                    "isPercentual": false,
+                    "identifier": "551c7833-a5da-460d-acb9-3e6768654899",
+                    "rawValue": -3.16,
+                    "rate": null,
+                    "jurisCode": null,
+                    "jurisType": null,
+                    "jurisName": null
+                }
+            ],
+            "imageUrl": "https://multitop.vteximg.com.br/arquivos/ids/161122-100-100/ME000046739_1.jpg?v=637431624861230000",
+            "detailUrl": "/pegsa-pegamento-multiusos-1256/p",
+            "components": [],
+            "bundleItems": [],
+            "params": [],
+            "offerings": [],
+            "sellerSku": "16575",
+            "priceValidUntil": null,
+            "commission": 0,
+            "tax": 0,
+            "preSaleDate": "2021-09-01T00:00:00.0000000+00:00",
+            "additionalInfo": {
+                "brandName": "PEGSA",
+                "brandId": "2000019",
+                "categoriesIds": "/8/10/23/",
+                "categories": [
+                    {
+                        "id": 23,
+                        "name": "BLANCOS"
+                    },
+                    {
+                        "id": 10,
+                        "name": "PEGAMENTOS"
+                    },
+                    {
+                        "id": 8,
+                        "name": "COMPLEMENTOS GENERALES"
+                    }
+                ],
+                "productClusterId": "137,141,555,557",
+                "commercialConditionId": "1",
+                "dimension": {
+                    "cubicweight": 0.0002,
+                    "height": 1.0000,
+                    "length": 1.0000,
+                    "weight": 920.0000,
+                    "width": 1.0000
+                },
+                "offeringInfo": null,
+                "offeringType": null,
+                "offeringTypeId": null
+            },
+            "measurementUnit": "un",
+            "unitMultiplier": 1.0000,
+            "sellingPrice": 1674,
+            "isGift": false,
+            "shippingPrice": null,
+            "rewardValue": 0,
+            "freightCommission": 0,
+            "priceDefinition": {
+                "sellingPrices": [
+                    {
+                        "value": 1674,
+                        "quantity": 1
+                    }
+                ],
+                "calculatedSellingPrice": 1674,
+                "total": 1674
+            },
+            "taxCode": null,
+            "parentItemIndex": null,
+            "parentAssemblyBinding": null,
+            "callCenterOperator": null,
+            "serialNumbers": null,
+            "assemblies": [],
+            "costPrice": 1989
+        }
+    ],
+    "marketplaceItems": [],
+    "clientProfileData": {
+        "id": "clientProfileData",
+        "email": "d04df7c1fb6944be9912a11910d20909@ct.vtex.com.br",
+        "firstName": "Jhony",
+        "lastName": "Flores Trucios",
+        "documentType": "DNI",
+        "document": "71058930",
+        "phone": "+51938604457",
+        "corporateName": "Carlos Manuel Marcos Serpa",
+        "tradeName": null,
+        "corporateDocument": "10108806341",
+        "stateInscription": null,
+        "corporatePhone": "+51 938 604 457",
+        "isCorporate": true,
+        "userProfileId": "a17550f6-511b-4b0f-90c5-09245ef64df3",
+        "customerClass": null
+    },
+    "giftRegistryData": null,
+    "marketingData": {
+        "id": "marketingData",
+        "utmSource": null,
+        "utmPartner": null,
+        "utmMedium": null,
+        "utmCampaign": null,
+        "coupon": "TIENDA50",
+        "utmiCampaign": null,
+        "utmipage": null,
+        "utmiPart": null,
+        "marketingTags": []
+    },
+    "ratesAndBenefitsData": {
+        "id": "ratesAndBenefitsData",
+        "rateAndBenefitsIdentifiers": [
+            {
+                "description": "INSUMOS 8% AGOSTO 2022",
+                "featured": true,
+                "id": "427a3bad-6c37-4ff6-96f3-5eb8e238f994",
+                "name": "8% dscto",
+                "matchedParameters": {
+                    "productCluster@CatalogSystem": "675|inclusive"
+                },
+                "additionalInfo": null
+            },
+            {
+                "description": "Te regalamos 50 soles por compras mínimas de S/.250 en web.",
+                "featured": false,
+                "id": "551c7833-a5da-460d-acb9-3e6768654899",
+                "name": "Cupón tienda50",
+                "matchedParameters": {
+                    "couponCode@Marketing": "TIENDA50"
+                },
+                "additionalInfo": null
+            },
+            {
+                "description": "[15:41] Sara Melissa Flores Tejada\nVálido hasta el 31 de Agosto del 2022. No aplica para categorías de Espumas, Línea clínica, Colchones y Pegamentos. Válido solo para Lima Urbana y compras a través de la web. No aplica para canales tradicionales: vía central telefónica, compras presenciales en tienda, SAC y Cuentas.",
+                "featured": false,
+                "id": "e14b77e4-e294-45cf-81ca-1412f24e116a",
+                "name": "Envío gratis - AGO 2022",
+                "matchedParameters": {
+                    "zipCode@Shipping": "150117",
+                    "slaIds": "normal",
+                    "category@CatalogSystem": "66,68,10,25,67,65,22,24,61,23|exclusive",
+                    "product@CatalogSystem": "199,222,10767,83263,85156,197,10446,207,229,83264,227,85157,225,231,108,10783,10374,228,205,85107,106,196,85106,223,201,230,85542,10784,10785,204,200,920,226,208,921,224,198|exclusive",
+                    "productCluster@CatalogSystem": "195,197,194,196,193|exclusive"
+                },
+                "additionalInfo": null
+            }
+        ]
+    },
+    "shippingData": {
+        "id": "shippingData",
+        "address": {
+            "addressType": "residential",
+            "receiverName": "Jhony-Flores Trucios-DNI +-71058930",
+            "addressId": "0fc1e3688d2e4fe489c5e31bcde6438e",
+            "postalCode": "150117",
+            "city": "Lima",
+            "state": "Lima",
+            "country": "PER",
+            "street": "Av. Metropolitana",
+            "number": "885",
+            "neighborhood": "Los Olivos",
+            "complement": null,
+            "reference": "Carwash lubricantería De La Cruz en google maps",
+            "geoCoordinates": [
+                -77.042755126953125,
+                -12.04637336730957
+            ]
+        },
+        "logisticsInfo": [
+            {
+                "itemIndex": 0,
+                "selectedSla": "normal",
+                "lockTTL": "10d",
+                "price": 0,
+                "listPrice": 2432,
+                "sellingPrice": 0,
+                "deliveryWindow": null,
+                "deliveryCompany": "Multitop Local Urbano",
+                "shippingEstimate": "4bd",
+                "shippingEstimateDate": "2022-09-02T22:00:00.0000000+00:00",
+                "slas": [
+                    {
+                        "id": "normal",
+                        "name": "normal",
+                        "shippingEstimate": "4bd",
+                        "deliveryWindow": null,
+                        "price": 0,
+                        "deliveryChannel": "delivery",
+                        "pickupStoreInfo": {
+                            "additionalInfo": null,
+                            "address": null,
+                            "dockId": null,
+                            "friendlyName": null,
+                            "isPickupStore": false
+                        },
+                        "polygonName": "",
+                        "lockTTL": "10d",
+                        "pickupPointId": null,
+                        "transitTime": "3bd"
+                    },
+                    {
+                        "id": "Recojo Tienda (recojo_tienda_iquitos)",
+                        "name": "Recojo Tienda (recojo_tienda_iquitos)",
+                        "shippingEstimate": "1bd",
+                        "deliveryWindow": null,
+                        "price": 0,
+                        "deliveryChannel": "pickup-in-point",
+                        "pickupStoreInfo": {
+                            "additionalInfo": "Para recoger el producto deberás presentar el comprobante que te enviaremos por correo",
+                            "address": {
+                                "addressType": "pickup",
+                                "receiverName": null,
+                                "addressId": "recojo_tienda_iquitos",
+                                "postalCode": "150115",
+                                "city": "Lima",
+                                "state": "Lima",
+                                "country": "PER",
+                                "street": "Avenida Iquitos",
+                                "number": "681",
+                                "neighborhood": "La Victoria",
+                                "complement": "(Estacionamiento Principal)",
+                                "reference": null,
+                                "geoCoordinates": [
+                                    -77.03029,
+                                    -12.06685
+                                ]
+                            },
+                            "dockId": "Punto_Recojo_Tienda_Iquitos",
+                            "friendlyName": "MultiTop Iquitos (Estacionamiento Principal)",
+                            "isPickupStore": true
+                        },
+                        "polygonName": "",
+                        "lockTTL": "10d",
+                        "pickupPointId": "1_recojo_tienda_iquitos",
+                        "transitTime": "0bd"
+                    }
+                ],
+                "shipsTo": [
+                    "PER"
+                ],
+                "deliveryIds": [
+                    {
+                        "courierId": "multitop_local_urbano",
+                        "courierName": "Multitop Local Urbano",
+                        "dockId": "1",
+                        "quantity": 8,
+                        "warehouseId": "1_1",
+                        "accountCarrierName": "multitop"
+                    }
+                ],
+                "deliveryChannel": "delivery",
+                "pickupStoreInfo": {
+                    "additionalInfo": null,
+                    "address": null,
+                    "dockId": null,
+                    "friendlyName": null,
+                    "isPickupStore": false
+                },
+                "addressId": "0fc1e3688d2e4fe489c5e31bcde6438e",
+                "polygonName": "",
+                "pickupPointId": null,
+                "transitTime": "3bd"
+            },
+            {
+                "itemIndex": 1,
+                "selectedSla": "normal",
+                "lockTTL": "10d",
+                "price": 0,
+                "listPrice": 1216,
+                "sellingPrice": 0,
+                "deliveryWindow": null,
+                "deliveryCompany": "Multitop Local Urbano",
+                "shippingEstimate": "4bd",
+                "shippingEstimateDate": "2022-09-02T22:00:00.0000000+00:00",
+                "slas": [
+                    {
+                        "id": "normal",
+                        "name": "normal",
+                        "shippingEstimate": "4bd",
+                        "deliveryWindow": null,
+                        "price": 0,
+                        "deliveryChannel": "delivery",
+                        "pickupStoreInfo": {
+                            "additionalInfo": null,
+                            "address": null,
+                            "dockId": null,
+                            "friendlyName": null,
+                            "isPickupStore": false
+                        },
+                        "polygonName": "",
+                        "lockTTL": "10d",
+                        "pickupPointId": null,
+                        "transitTime": "3bd"
+                    },
+                    {
+                        "id": "Recojo Tienda (recojo_tienda_iquitos)",
+                        "name": "Recojo Tienda (recojo_tienda_iquitos)",
+                        "shippingEstimate": "1bd",
+                        "deliveryWindow": null,
+                        "price": 0,
+                        "deliveryChannel": "pickup-in-point",
+                        "pickupStoreInfo": {
+                            "additionalInfo": "Para recoger el producto deberás presentar el comprobante que te enviaremos por correo",
+                            "address": {
+                                "addressType": "pickup",
+                                "receiverName": null,
+                                "addressId": "recojo_tienda_iquitos",
+                                "postalCode": "150115",
+                                "city": "Lima",
+                                "state": "Lima",
+                                "country": "PER",
+                                "street": "Avenida Iquitos",
+                                "number": "681",
+                                "neighborhood": "La Victoria",
+                                "complement": "(Estacionamiento Principal)",
+                                "reference": null,
+                                "geoCoordinates": [
+                                    -77.03029,
+                                    -12.06685
+                                ]
+                            },
+                            "dockId": "Punto_Recojo_Tienda_Iquitos",
+                            "friendlyName": "MultiTop Iquitos (Estacionamiento Principal)",
+                            "isPickupStore": true
+                        },
+                        "polygonName": "",
+                        "lockTTL": "10d",
+                        "pickupPointId": "1_recojo_tienda_iquitos",
+                        "transitTime": "0bd"
+                    }
+                ],
+                "shipsTo": [
+                    "PER"
+                ],
+                "deliveryIds": [
+                    {
+                        "courierId": "multitop_local_urbano",
+                        "courierName": "Multitop Local Urbano",
+                        "dockId": "1",
+                        "quantity": 4,
+                        "warehouseId": "1_1",
+                        "accountCarrierName": "multitop"
+                    }
+                ],
+                "deliveryChannel": "delivery",
+                "pickupStoreInfo": {
+                    "additionalInfo": null,
+                    "address": null,
+                    "dockId": null,
+                    "friendlyName": null,
+                    "isPickupStore": false
+                },
+                "addressId": "0fc1e3688d2e4fe489c5e31bcde6438e",
+                "polygonName": "",
+                "pickupPointId": null,
+                "transitTime": "3bd"
+            },
+            {
+                "itemIndex": 2,
+                "selectedSla": "normal",
+                "lockTTL": "10d",
+                "price": 152,
+                "listPrice": 152,
+                "sellingPrice": 152,
+                "deliveryWindow": null,
+                "deliveryCompany": "Multitop Local Urbano",
+                "shippingEstimate": "4bd",
+                "shippingEstimateDate": "2022-09-02T22:00:00.0000000+00:00",
+                "slas": [
+                    {
+                        "id": "normal",
+                        "name": "normal",
+                        "shippingEstimate": "4bd",
+                        "deliveryWindow": null,
+                        "price": 152,
+                        "deliveryChannel": "delivery",
+                        "pickupStoreInfo": {
+                            "additionalInfo": null,
+                            "address": null,
+                            "dockId": null,
+                            "friendlyName": null,
+                            "isPickupStore": false
+                        },
+                        "polygonName": "",
+                        "lockTTL": "10d",
+                        "pickupPointId": null,
+                        "transitTime": "3bd"
+                    },
+                    {
+                        "id": "Recojo Tienda (recojo_tienda_iquitos)",
+                        "name": "Recojo Tienda (recojo_tienda_iquitos)",
+                        "shippingEstimate": "1bd",
+                        "deliveryWindow": null,
+                        "price": 0,
+                        "deliveryChannel": "pickup-in-point",
+                        "pickupStoreInfo": {
+                            "additionalInfo": "Para recoger el producto deberás presentar el comprobante que te enviaremos por correo",
+                            "address": {
+                                "addressType": "pickup",
+                                "receiverName": null,
+                                "addressId": "recojo_tienda_iquitos",
+                                "postalCode": "150115",
+                                "city": "Lima",
+                                "state": "Lima",
+                                "country": "PER",
+                                "street": "Avenida Iquitos",
+                                "number": "681",
+                                "neighborhood": "La Victoria",
+                                "complement": "(Estacionamiento Principal)",
+                                "reference": null,
+                                "geoCoordinates": [
+                                    -77.03029,
+                                    -12.06685
+                                ]
+                            },
+                            "dockId": "Punto_Recojo_Tienda_Iquitos",
+                            "friendlyName": "MultiTop Iquitos (Estacionamiento Principal)",
+                            "isPickupStore": true
+                        },
+                        "polygonName": "",
+                        "lockTTL": "10d",
+                        "pickupPointId": "1_recojo_tienda_iquitos",
+                        "transitTime": "0bd"
+                    }
+                ],
+                "shipsTo": [
+                    "PER"
+                ],
+                "deliveryIds": [
+                    {
+                        "courierId": "multitop_local_urbano",
+                        "courierName": "Multitop Local Urbano",
+                        "dockId": "1",
+                        "quantity": 1,
+                        "warehouseId": "1_1",
+                        "accountCarrierName": "multitop"
+                    }
+                ],
+                "deliveryChannel": "delivery",
+                "pickupStoreInfo": {
+                    "additionalInfo": null,
+                    "address": null,
+                    "dockId": null,
+                    "friendlyName": null,
+                    "isPickupStore": false
+                },
+                "addressId": "0fc1e3688d2e4fe489c5e31bcde6438e",
+                "polygonName": "",
+                "pickupPointId": null,
+                "transitTime": "3bd"
+            }
+        ],
+        "trackingHints": null,
+        "selectedAddresses": [
+            {
+                "addressId": "0fc1e3688d2e4fe489c5e31bcde6438e",
+                "addressType": "residential",
+                "receiverName": "Jhony-Flores Trucios-DNI +-71058930",
+                "street": "Av. Metropolitana",
+                "number": "885",
+                "complement": null,
+                "neighborhood": "Los Olivos",
+                "postalCode": "150117",
+                "city": "Lima",
+                "state": "Lima",
+                "country": "PER",
+                "reference": "Carwash lubricantería De La Cruz en google maps",
+                "geoCoordinates": [
+                    -77.042755126953125,
+                    -12.04637336730957
+                ]
+            }
+        ]
+    },
+    "paymentData": {
+        "giftCards": [],
+        "transactions": [
+            {
+                "isActive": true,
+                "transactionId": "AAA199BB538D4510B3A9032E29989A5A",
+                "merchantName": "MULTITOP",
+                "payments": [
+                    {
+                        "id": "39C1213A05914A83AFB807DE2E128A88",
+                        "paymentSystem": "10",
+                        "paymentSystemName": "Visa Electron",
+                        "value": 26614,
+                        "installments": 1,
+                        "referenceValue": 26614,
+                        "cardHolder": null,
+                        "cardNumber": null,
+                        "firstDigits": "455103",
+                        "lastDigits": "8121",
+                        "cvv2": null,
+                        "expireMonth": null,
+                        "expireYear": null,
+                        "url": null,
+                        "giftCardId": null,
+                        "giftCardName": null,
+                        "giftCardCaption": null,
+                        "redemptionCode": null,
+                        "group": "debitCard",
+                        "tid": "25281499042",
+                        "dueDate": null,
+                        "connectorResponses": {
+                            "Tid": "25281499042",
+                            "ReturnCode": null,
+                            "Message": null,
+                            "authId": "25281499042",
+                            "acquirer": "MercadoPagoV1",
+                            "message": "accredited"
+                        },
+                        "giftCardProvider": null,
+                        "giftCardAsDiscount": null,
+                        "koinUrl": null,
+                        "accountId": null,
+                        "parentAccountId": null,
+                        "bankIssuedInvoiceIdentificationNumber": null,
+                        "bankIssuedInvoiceIdentificationNumberFormatted": null,
+                        "bankIssuedInvoiceBarCodeNumber": null,
+                        "bankIssuedInvoiceBarCodeType": null,
+                        "billingAddress": {
+                            "postalCode": "150117",
+                            "city": "Lima",
+                            "state": "Lima",
+                            "country": "PER",
+                            "street": "Av. Metropolitana",
+                            "number": "885",
+                            "neighborhood": "Los Olivos",
+                            "complement": null,
+                            "reference": "Carwash lubricantería De La Cruz en google maps",
+                            "geoCoordinates": [
+                                -77.042755126953125,
+                                -12.04637336730957
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "packageAttachment": {
+        "packages": []
+    },
+    "sellers": [
+        {
+            "id": "1",
+            "name": "MULTI TOP S.A.C",
+            "logo": "",
+            "fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?an=multitop"
+        }
+    ],
+    "callCenterOperatorData": null,
+    "followUpEmail": "939de4c5a82e4ff59f7440c0c3228ea4@ct.vtex.com.br",
+    "lastMessage": null,
+    "hostname": "multitop",
+    "invoiceData": null,
+    "changesAttachment": null,
+    "openTextField": null,
+    "roundingError": 0,
+    "orderFormId": "bbf665f0ba3f4dccb15f2f0bdb941d84",
+    "commercialConditionData": null,
+    "isCompleted": true,
+    "customData": null,
+    "storePreferencesData": {
+        "countryCode": "PER",
+        "currencyCode": "PEN",
+        "currencyFormatInfo": {
+            "CurrencyDecimalDigits": 2,
+            "CurrencyDecimalSeparator": ".",
+            "CurrencyGroupSeparator": ",",
+            "CurrencyGroupSize": 3,
+            "StartsWithCurrencySymbol": true
+        },
+        "currencyLocale": 10250,
+        "currencySymbol": "S/",
+        "timeZone": "SA Pacific Standard Time"
+    },
+    "allowCancellation": true,
+    "allowEdition": false,
+    "isCheckedIn": false,
+    "marketplace": {
+        "baseURL": "http://oms.vtexinternal.com.br/api/oms?an=multitop",
+        "isCertified": null,
+        "name": "multitop"
+    },
+    "authorizedDate": "2022-08-29T01:52:45.9042658+00:00",
+    "invoicedDate": null,
+    "cancelReason": null,
+    "itemMetadata": {
+        "Items": [
+            {
+                "Id": "11268",
+                "Seller": "1",
+                "Name": "PISO MARACAIBO TABLON PLOMO OSCURO 52",
+                "SkuName": "PISO MARACAIBO TABLON PLOMO OSCURO 52",
+                "ProductId": "11268",
+                "RefId": "ME000036995",
+                "Ean": null,
+                "ImageUrl": "http://multitop.vteximg.com.br/arquivos/ids/158303-100-100/ME000036995_1.jpg?v=637283878545100000",
+                "DetailUrl": "/piso-maracaibo-tablon-plomo-oscuro-52-11268/p",
+                "AssemblyOptions": []
+            },
+            {
+                "Id": "16575",
+                "Seller": "1",
+                "Name": "PEGSA PEGAMENTO MULTIUSOS CALZAPEG (GALON 1/4 LTS)",
+                "SkuName": "PEGSA PEGAMENTO MULTIUSOS CALZAPEG (GALON 1/4 LTS)",
+                "ProductId": "1256",
+                "RefId": "ME000046739",
+                "Ean": null,
+                "ImageUrl": "http://multitop.vteximg.com.br/arquivos/ids/161122-100-100/ME000046739_1.jpg?v=637431624861230000",
+                "DetailUrl": "/pegsa-pegamento-multiusos-1256/p",
+                "AssemblyOptions": []
+            }
+        ]
+    },
+    "subscriptionData": null,
+    "taxData": null,
+    "checkedInPickupPointId": null,
+    "cancellationData": null
+}
