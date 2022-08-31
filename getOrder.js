@@ -133,7 +133,7 @@ function doing(account, APIKey, APIToken, orderId, VtexIdclientAutCookie) {
                     document.getElementById('demo').innerHTML = error;
                 })
         } else if (!VtexIdclientAutCookie) {
-            document.getElementById('demo').innerHTML = "No está configurado la cookie";
+            document.getElementById('demo').innerHTML = "No está configurado la cookie ó los APIKeys";
         } else {
             if (!APIKey)
                 document.getElementById('demo').innerHTML = "No está configurado la APIKey";
