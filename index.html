@@ -1,7 +1,30 @@
+<!DOCTYPE html>
+<html>
+
 <head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Convert getOrder</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='../main.css'>
 </head>
+
 <body>
-    <script type="text/javascript" src="/retrive-order-quantity/getOrder.js"></script>
+    <p id="labels">
+        Ingresar account VTEX: <input type="text" name="account" size="30" id="account" placeholder="myaccount"
+            value=""><br>
+        Ingrese cookie VtexIdclientAutCookie(Sólo admin VTEX), No mandatory: <input type="text"
+            name="VtexIdclientAutCookie" id="VtexIdclientAutCookie" placeholder="XXXXXXXXXXX" size="30" value=""><br>
+        Ingrese su VTEX API Key(Este no se guardará): <input type="text" name="APIKey" id="APIKey" size="30"
+            placeholder="vtexappkey-XXXXX-XXXXX" value=""><br>
+        Ingrese su VTEX APP TOKEN (Este no se guardará): <input type="text" name="APIToken" id="APIToken"
+            placeholder="XXXXXXXXXXX" size="30" value=""><br>
+        Ingrese el orderId (VTEX): <input type="text" name="orderId" size="30" id="orderId" placeholder="" value=""><br>
+        <button onclick="start()">Get Order</button>
+    </p>
     <p id="demo"></p>
-    
+    <p id="nodes"></p>
+    <script type="text/javascript" src="../getOrder.js"></script>
 </body>
+
+</html>

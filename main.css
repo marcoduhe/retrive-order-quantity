@@ -1,0 +1,60 @@
+html,
+    .body {
+      margin: 0;
+      width: 100%;
+      height: 100%;
+      padding: 3px;
+      /* font-family: Arial, sans-serif;
+      font-size: 16px; */
+    }
+    * {
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+      }
+      input {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        display: block;
+        padding: 8px 5px;
+        border: 1px solid #CCC;
+      }
+      button {
+        display: inline-block;
+        width: 20%;
+        padding: 8px;
+      }
+    pre {
+        outline: 1px solid rgb(163, 21, 21);
+        width: 100%;
+        padding: 5px;
+        margin: 5px;
+    }
+#demo {
+    outline: 1px solid rgb(163, 21, 21);
+    width: 100%;
+    padding: 5px;
+    margin: 5px;
+    color:red;
+    font-weight: bold;
+}
+.string {
+    color: rgb(35, 80, 159);
+}
+
+.number {
+    color: rgb(58, 132, 92);
+}
+
+.boolean {
+    color: rgb(34, 80, 159);
+    font-weight: bold;
+}
+
+.null {
+    color: rgb(34, 80, 159);
+    font-weight: bold;
+}
+
+.key {
+    color: rgb(163, 21, 21);
+}
